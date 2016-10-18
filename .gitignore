@@ -1,8 +1,0 @@
-#ignorovane priecinky a subory
-node_modules
-.DS_Store
-tmp
-*.swp~
-test/*.txt
-!test/master.txt
-Thumbs.db
